@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Driss Chelouati, a passionate self-taught UI/UX designer and Frontend developer from Morocco. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Driss Chelouati, a passionate self-taught UI/UX designer and Frontend developer from Morocco. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care of the experience and code quality of the stuff I build.
   
 - 🏆 Iam an Elite author on [ThemeForest](https://themeforest.net/user/cssninjastudio/portfolio)
 
