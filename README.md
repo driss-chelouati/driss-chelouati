@@ -2,13 +2,9 @@
 
 <br />
 
-Hi, I'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught Full Stack web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
-
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
-
-<br />
+Hi, I'm Driss Chelouati, a passionate self-taught UI/UX designer and Frontend developer from Morocco. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
   
-- 💼 Any freelance work? Do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 Any freelance work? Do reach, [email](mailto:driss@digisquad.io) :)
 - 💬 Ask me about anything, I am happy to help;
 
 - 🏆 Iam an Elite author on [ThemeForest](https://themeforest.net/user/cssninjastudio/portfolio)
