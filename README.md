@@ -8,8 +8,6 @@ Hi, I'm Driss Chelouati, a passionate self-taught UI/UX designer and Frontend de
 
 - 🍪 I’m Lead Designer at [digisquad.io](https://digisquad.io/en/) and founder of [cssninja.io](https://cssninja.io)
 
-- 🔭 I’m currently working on [awesome Bulma and Tailwind templates](https://cssninja.io/category/all)
-
 - 🌱 Check my [portfolio](https://cssninja.io/portfolio) and my shots on [dribbble](https://dribbble.com/playbook)
 
 - 💬 Ask me about anything, I am happy to help;
