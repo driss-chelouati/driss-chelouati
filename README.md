@@ -33,9 +33,10 @@ Hi, I'm Driss Chelouati, a passionate self-taught UI/UX designer and Frontend de
 
 <a  style="display:inline-block;margin-right:4px;" href="https://www.linkedin.com/in/driss-chelouati-aab1a397/">
   <img alt="Driss Chelouati's LinkedIn" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> <a  style="display:inline-block;margin-right:4px;" href="https://twitter.com/DrissChelouati">
+</a>
+<a  style="display:inline-block;margin-right:4px;" href="https://twitter.com/DrissChelouati">
   <img alt="Driss Chelouati | Twitter" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-</a> <a  style="display:inline-block;margin-right:4px;" https://dribbble.com/DrissChelouati">
+<a  style="display:inline-block;margin-right:4px;" https://dribbble.com/DrissChelouati">
   <img alt="Driss Chelouati | Twitter" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/dribbble.svg" />
 </a>
