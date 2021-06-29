@@ -1,7 +1,7 @@
-### Hey there, Iam Driss <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><a href="https://www.linkedin.com/in/driss-chelouati-aab1a397/">
-  <img align="left" alt="Driss Chelouati's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> <a href="https://twitter.com/DrissChelouati">
-  <img align="left" alt="Driss Chelouati | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+### Hey there, Iam Driss <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"><a  style="display:inline" href="https://www.linkedin.com/in/driss-chelouati-aab1a397/">
+  <img alt="Driss Chelouati's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a> <a  style="display:inline" href="https://twitter.com/DrissChelouati">
+  <img alt="Driss Chelouati | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <br />
