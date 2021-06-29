@@ -31,9 +31,9 @@ Hi, I'm Driss Chelouati, a passionate self-taught UI/UX designer and Frontend de
 
 ![Driss's GitHub stats](https://github-readme-stats.vercel.app/api?username=driss-chelouati&hide=contribs,prs&theme=buefy)
 
-<a  style="display:inline" href="https://www.linkedin.com/in/driss-chelouati-aab1a397/">
+<a  style="display:inline-block" href="https://www.linkedin.com/in/driss-chelouati-aab1a397/">
   <img alt="Driss Chelouati's LinkedIn" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a> <a  style="display:inline" href="https://twitter.com/DrissChelouati">
+</a> <a  style="display:inline-block" href="https://twitter.com/DrissChelouati">
   <img alt="Driss Chelouati | Twitter" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
