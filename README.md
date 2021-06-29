@@ -4,9 +4,6 @@
 
 Hi, I'm Driss Chelouati, a passionate self-taught UI/UX designer and Frontend developer from Morocco. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
   
-- 💼 Any freelance work? Do reach, [email](mailto:driss@digisquad.io) :)
-- 💬 Ask me about anything, I am happy to help;
-
 - 🏆 Iam an Elite author on [ThemeForest](https://themeforest.net/user/cssninjastudio/portfolio)
 
 - 🍪 I’m Lead Designer at [digisquad.io](https://digisquad.io/en/) and founder of [cssninja.io](https://cssninja.io)
@@ -15,9 +12,9 @@ Hi, I'm Driss Chelouati, a passionate self-taught UI/UX designer and Frontend de
 
 - 🌱 Check my [portfolio](https://cssninja.io/portfolio) and my shots on [dribbble](https://dribbble.com/playbook)
 
-- 📝 I regularly write articles on [https://cssninja.io/blog](https://cssninja.io/blog)
+- 💬 Ask me about anything, I am happy to help;
 
-- 📫 How to reach me **driss@digisquad.io**
+- 💼 Any freelance work? Do reach, [email](mailto:driss@digisquad.io) :)
 
 **Languages and Tools:**  
 
