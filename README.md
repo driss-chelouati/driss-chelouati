@@ -1,4 +1,4 @@
-### Hi there, Iam Driss 👋
+### Hi there, Iam Driss <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🏆 Iam an Elite author on [ThemeForest](https://themeforest.net/user/cssninjastudio/portfolio)
 
