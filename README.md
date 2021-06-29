@@ -14,3 +14,10 @@
 
 ![Driss's GitHub stats](https://github-readme-stats.vercel.app/api?username=driss-chelouati&hide=contribs,prs&theme=buefy)
 )
+
+<a href="https://twitter.com/DrissChelouati">
+  <img align="left" alt="Driss Chelouati | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/driss-chelouati-aab1a397/">
+  <img align="left" alt="Driss Chelouati's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
