@@ -31,12 +31,12 @@ Hi, I'm Driss Chelouati, a passionate self-taught UI/UX designer and Frontend de
 
 ![Driss's GitHub stats](https://github-readme-stats.vercel.app/api?username=driss-chelouati&hide=contribs,prs&theme=buefy)
 
-<a  style="display:inline-block;margin-right:4px;" href="https://www.linkedin.com/in/driss-chelouati-aab1a397/">
+<a  style="display:inline-block;margin-right:8px;" href="https://www.linkedin.com/in/driss-chelouati-aab1a397/">
   <img alt="Driss Chelouati's LinkedIn" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a  style="display:inline-block;margin-right:4px;" href="https://twitter.com/DrissChelouati">
+<a  style="display:inline-block;margin-right:8px;" href="https://twitter.com/DrissChelouati">
   <img alt="Driss Chelouati | Twitter" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a style="display:inline-block;margin-right:4px;" href="https://dribbble.com/DrissChelouati">
+<a style="display:inline-block;margin-right:8px;" href="https://dribbble.com/DrissChelouati">
   <img alt="Driss Chelouati | Dribbble" width="16px" src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/512/Dribbble-icon.png" />
 </a>
