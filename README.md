@@ -2,7 +2,7 @@
 
 <br />
 
-Hey there, I'm Driss. I specialize in UI/UX and frontend developement. My favorite thing is to build frontend interfaces from scracth. Got a interesting frontend job to get done? I'm always in! 👌
+I specialize in UI/UX and frontend developement. My favorite thing is to build web interfaces from scracth. Got a interesting frontend job to get done? I'm always in! 👌
   
 - 🏆 Iam an Elite author on [ThemeForest](https://themeforest.net/user/cssninjastudio/portfolio)
 
