@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm Driss Chelouati, a passionate UI/UX designer and frontend developer from Morocco. I care about thoughtful UX conception and attention to detail when building complex interfaces. Forever interested in taking on new challenges!
+Hey there, I'm Driss. I specialize in UI/UX and frontend developement. My favorite thing is to build frontend interfaces from scracth. Got a interesting frontend job to get done? I'm always in! 👌
   
 - 🏆 Iam an Elite author on [ThemeForest](https://themeforest.net/user/cssninjastudio/portfolio)
 
