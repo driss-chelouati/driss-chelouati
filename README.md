@@ -31,9 +31,11 @@ I specialize in UI/UX and frontend developement. My favorite thing is to build w
 <a  style="display:inline-block;padding-right:8px;" href="https://www.linkedin.com/in/driss-chelouati-aab1a397/">
   Linkedin
 </a>
+&nbsp;
 <a  style="display:inline-block;padding-right:8px;" href="https://twitter.com/DrissChelouati">
   X/Twitter
 </a>
+&nbsp;
 <a style="display:inline-block;padding-right:8px;" href="https://dribbble.com/DrissChelouati">
   Dribbble
 </a>
