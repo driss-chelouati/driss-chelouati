@@ -29,11 +29,11 @@ I specialize in UI/UX and frontend developement. My favorite thing is to build w
 ![Driss's GitHub stats](https://github-readme-stats.vercel.app/api?username=driss-chelouati&hide=contribs,prs&theme=buefy)
 
 <a  style="display:inline-block;margin-right:8px;" href="https://www.linkedin.com/in/driss-chelouati-aab1a397/">
-  <img alt="Driss Chelouati's LinkedIn" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  Linkedin
 </a>
 <a  style="display:inline-block;margin-right:8px;" href="https://twitter.com/DrissChelouati">
-  <img alt="Driss Chelouati | Twitter" width="16px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  X/Twitter
 </a>
 <a style="display:inline-block;margin-right:8px;" href="https://dribbble.com/DrissChelouati">
-  <img alt="Driss Chelouati | Dribbble" width="16px" src="https://icons.iconarchive.com/icons/uiconstock/socialmedia/512/Dribbble-icon.png" />
+  Dribbble
 </a>
