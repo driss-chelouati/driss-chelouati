@@ -12,7 +12,7 @@ I specialize in UI/UX and frontend developement. My favorite thing is to build w
 
 - 💬 Ask me about anything, I am happy to help;
 
-- 💼 Any freelance work? Do reach, [email](mailto:driss@digisquad.io) :)
+- 💼 Any freelance work? Do reach, [email](mailto:driss@digisquad.io) or [Upwork](https://www.upwork.com/freelancers/~01d71828abada3dbb3?viewMode=1) :)
 
 <br />
 
